@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{531961B4-E3DC-3787-5F4F-D261CA0D5DA5}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/UiScript.cs">
+    <Files>
+      <File FileName="Assets/Scripts/UiScript.cs" Line="10" Column="6" />
+      <File FileName="Assets/Scripts/LoadAssets.cs" />
+      <File FileName="Assets/Scripts/CameraScript.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exar" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="UiScript.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="39ebc01e-75ad-4f7e-a3e0-cd0f71c067ca" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

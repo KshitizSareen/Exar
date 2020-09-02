@@ -1,0 +1,369 @@
+fileFormatVersion: 2
+guid: 6422b90d8d511486f9aa0ab27f612f26
+ModelImporter:
+  serializedVersion: 19301
+  internalIDToNameTable:
+  - first:
+      74: -203655887218126122
+    second: Plank
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Beardmat
+    second: {fileID: 2100000, guid: 064bbff0cc1474139aa86e0bd1879701, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bodymat
+    second: {fileID: 2100000, guid: 3011e8d482edd454898b127d8bbc97c8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bottommat
+    second: {fileID: 2100000, guid: cf80809d516104e6e8b42f2e10d160f1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glovemat
+    second: {fileID: 2100000, guid: e7be07c4646f547ee9f2d7b5cc2a6bc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hairmat
+    second: {fileID: 2100000, guid: 9d7d4fbc9f3bd43379e134d8a5861598, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Moustachemat
+    second: {fileID: 2100000, guid: 14aa409ce1fc64927804abc98f42304f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shoesmat
+    second: {fileID: 2100000, guid: 6a2f2f35bf5b04d22871f54c115d5706, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Topmat
+    second: {fileID: 2100000, guid: 44ebbf5585cad468abbd35f2797be32b, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Beard_Diffuse
+    second: {fileID: 2800000, guid: a01ad2c7336e543658a894bd8fa43966, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Beard_Gloss
+    second: {fileID: 2800000, guid: 900ef2b6376ff4fba87e7f4ca1ad73b5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Beard_Normal
+    second: {fileID: 2800000, guid: de63a04af63494c54ab6122c872fbaf6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Beard_Opacity
+    second: {fileID: 2800000, guid: 46ae5a93a772f41e99da8be9a60f5206, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Beard_Specular
+    second: {fileID: 2800000, guid: bce0dfe242c9b4ff3943a3b4588c47f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Body_Diffuse
+    second: {fileID: 2800000, guid: 69bca4d707a4640758ae2f87a49aa53d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Body_Gloss
+    second: {fileID: 2800000, guid: 799485ec9e2d64fa5915dd2237d201f8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Body_Normal
+    second: {fileID: 2800000, guid: dd89a0128ca6d4231a69769afaa7d643, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Body_Opacity
+    second: {fileID: 2800000, guid: b240b53bcc4174d029502ba8ea89e48c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Body_Specular
+    second: {fileID: 2800000, guid: 24409984f5f974bf1a94d6ee6e0dd921, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Bottom_Diffuse
+    second: {fileID: 2800000, guid: 4f291d5feae6d4713b302ce4df8e9655, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Bottom_Gloss
+    second: {fileID: 2800000, guid: 469a4c16bc39d4f1caab383534661219, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Bottom_Normal
+    second: {fileID: 2800000, guid: 347e2ac8ae81a4d54b7f657eb8e051cc, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Bottom_Opacity
+    second: {fileID: 2800000, guid: 2aa31aeb4f2cc4985a449f8ba775ddb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Bottom_Specular
+    second: {fileID: 2800000, guid: c07e52483f3e44617816000841f16d29, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Glove_Diffuse
+    second: {fileID: 2800000, guid: a9fab203695c74b6db5b9a00042a4da2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Glove_Gloss
+    second: {fileID: 2800000, guid: 55b1cd7e260b14eb291cb8259027dc4c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Glove_Normal
+    second: {fileID: 2800000, guid: 67dc474a8f2a544179510565e68b0054, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Glove_Opacity
+    second: {fileID: 2800000, guid: c70d2a11a41504407952d82f6325c48b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Glove_Specular
+    second: {fileID: 2800000, guid: f46c99b850c0a43c791abc20f31788cd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Hair_Diffuse
+    second: {fileID: 2800000, guid: 4af223f07674a42b69ba5721317587ae, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Hair_Gloss
+    second: {fileID: 2800000, guid: 5233f9191a3e2415bbde9b151d4ed031, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Hair_Normal
+    second: {fileID: 2800000, guid: 185439f4cd041492d834cce3364da023, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Hair_Opacity
+    second: {fileID: 2800000, guid: aa1485da9e5484e22af1a90bbb23554f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Hair_Specular
+    second: {fileID: 2800000, guid: fc80d21637b66462aab9ea94577d7440, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Moustache_Diffuse
+    second: {fileID: 2800000, guid: 191af5179cb41475db508c85e23a8730, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Moustache_Gloss
+    second: {fileID: 2800000, guid: 9d5ef1980cd4b4b99ad431dada1e5a05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Moustache_Normal
+    second: {fileID: 2800000, guid: 4a548007f03d34e95ab840a45d79272f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Moustache_Opacity
+    second: {fileID: 2800000, guid: 134686697d448411b847f0ec7b6956ee, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Moustache_Specular
+    second: {fileID: 2800000, guid: 52c0ebd3df48146ce84679de036d0db0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Shoes_Diffuse
+    second: {fileID: 2800000, guid: 86413de7a31734d0c807002a823d89b9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Shoes_Gloss
+    second: {fileID: 2800000, guid: 5d8589b33a076467b877a7408a83eaa5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Shoes_Normal
+    second: {fileID: 2800000, guid: 21d20f07645b640258002c656820b813, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Shoes_Opacity
+    second: {fileID: 2800000, guid: a8ce80578475c4d3e9d5ab5e89ef943b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Shoes_Specular
+    second: {fileID: 2800000, guid: 71c19e2a5545843d3991c602d39e8034, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Top_Diffuse
+    second: {fileID: 2800000, guid: 17ad157dfd372403bad96a2bf738a2c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Top_Gloss
+    second: {fileID: 2800000, guid: 2b6a5df91ee7244ceb9fe208adbf76f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Top_Normal
+    second: {fileID: 2800000, guid: 298d8c4217d974e27af71bc2e90c00c8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Top_Opacity
+    second: {fileID: 2800000, guid: 59d3d604234284a0ba493dc73865b117, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Character9_Top_Specular
+    second: {fileID: 2800000, guid: efe5bf656d1074b90bdf0558f52b581c, type: 3}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Plank
+      takeName: mixamo.com
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 90
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
